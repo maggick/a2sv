@@ -102,7 +102,7 @@ def mainScreen():
     os.system('cls' if os.name=='nt' else 'clear')
     showDisplay(displayMode,"                                A_A")
     showDisplay(displayMode,"                               (-.-)")
-    showDisplay(displayMode,"                               /   h ")
+    showDisplay(displayMode,"                               /   \ ")
     showDisplay(displayMode,"                              |     |   __ ")
     showDisplay(displayMode,"                              |  || |  |  t__  ")
     showDisplay(displayMode,"                               t_|| /_/ ")
